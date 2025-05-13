@@ -42,7 +42,8 @@ Build a compact, affordable emergency detection and response system using IoT co
    - Displays system status or alert condition.
    ![image](https://github.com/user-attachments/assets/6ec2e10d-a4e1-4608-bf97-7704cbec0539)
 
-   ![image](https://github.com/user-attachments/assets/90da265d-903e-42ce-a58c-2b3d755c982d)
+   ![image](https://github.com/user-attachments/assets/f3617a42-c5d8-47d9-a2a7-3c29bed3b0f6)
+
 
    ![image](https://github.com/user-attachments/assets/96296505-c390-456f-979e-91d3196d25d2)
 
