@@ -38,6 +38,8 @@ Build a compact, affordable emergency detection and response system using IoT co
 
 3. **Web Interface**
    - Displays system status or alert condition.
+   ![image](https://github.com/user-attachments/assets/96296505-c390-456f-979e-91d3196d25d2)
+
 
 ---
 
