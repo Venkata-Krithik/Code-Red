@@ -2,7 +2,7 @@
 Dynamic Master Election in IoT Sensor Network
 ---
 
-## 🧠 Overview
+##  Overview
 
 **Goal:**  
 Build a compact, affordable emergency detection and response system using IoT components that can operate autonomously or with minimal intervention.
@@ -15,7 +15,7 @@ Build a compact, affordable emergency detection and response system using IoT co
 
 ---
 
-## 🧪 Components Used
+##  Components Used
 
 - 🔌 **Raspberry Pi**
 - 📶 **ESP8266 Wi-Fi Module**
@@ -25,7 +25,7 @@ Build a compact, affordable emergency detection and response system using IoT co
 
 ---
 
-## 🔄 Communication Flow
+##  Communication Flow
 
 1. **ESP8266 Node**
    - Collects input (e.g., button press or sensor).
@@ -41,7 +41,7 @@ Build a compact, affordable emergency detection and response system using IoT co
 
 ---
 
-## 📜 File Descriptions
+##  File Descriptions
 
 - `IoTCodeRed.ino`:  
   Arduino sketch for the ESP8266. Handles button state reading and broadcasting alert messages.
